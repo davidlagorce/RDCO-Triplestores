@@ -16,13 +16,11 @@ Here are the links in order to download archives files of the two RDCO ontologie
      
 
      
- ## RDCO-Sparql-Endpoints.
- Here the links in order to download archives files of Sparql Enpoints available and/or needed to querying RDCO ontologies:
+ ## How to run and query Sparql-Endpoints.
+     1. Unzip the archives files.
+     2. Two differents technologies were employed: Jena TBD Fuseki server for RDCO and Blazegraph for ORDO and HOOM:
+          a. For Jena, in the dedicated folder (JenaRDCO_ORDO_8010_collection or JenaRDCO_PHENO_8020_collection), one can find a startFuseki.bat file containing the command line capable to launch the server on a Windows OS.
+          Otherwise, you can run in a terminal the command line : 
+               - java -jar fuseki-server.jar --port=8010 --update --loc=data /ds
+          Note: if you want to run federated queries, beware to use differents ports for differents sparql endpoints (8010 for RDCO-ORDO and 8020 for RDCO-PHENO).
  
-     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/JenaRDCO_ORDO_8010_collection.zip
-     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/JenaRDCO_PHENO_8020_collection.zip
-     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/OrdoBlazeGraph.zip
-     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/HOOMBlazeGraph.zip
-     
-
-     

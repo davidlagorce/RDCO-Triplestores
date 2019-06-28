@@ -31,10 +31,23 @@ Here are the links in order to download archives files of the two RDCO ontologie
             java -server -Xmx4g -Djetty.port=9990 -jar blazegraph.jar  
             
 3. In a browser open: 
+     
+     **for JenaRDCO_ORDO_8010_collection**
             
-            http://localhost:8010/   **for JenaRDCO_ORDO_8010_collection**
-            http://localhost:8020/   **for JenaRDCO_PHENO_8020_collection**
-            http://192.168.0.108:9999/blazegraph/#splash   **for OrdoBlazeGraph** 
-            http://192.168.0.108:9990/blazegraph/#splash   **for HOOMBlazeGraph** 
+            http://localhost:8010/   
+            
+      **for JenaRDCO_PHENO_8020_collection**
+      
+            http://localhost:8020/
+      
+      **for OrdoBlazeGraph**       
+      
+            http://192.168.0.108:9999/blazegraph/#splash
+          
+      **for HOOMBlazeGraph**       
+      
+            http://192.168.0.108:9990/blazegraph/#splash
+            
+            
             
        

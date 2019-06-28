@@ -18,7 +18,8 @@ Here are the links in order to download archives files of the two RDCO ontologie
      
  ## How to run and query Sparql-Endpoints.
  1. Unzip the archives files.
- 2. Two differents technologies were employed: Jena TBD Fuseki server for RDCO and Blazegraph for ORDO and HOOM:
+ 2. Two differents technologies were employed:
+     - Jena TBD Fuseki server for RDCO and Blazegraph for ORDO and HOOM:
           a. For Jena, in the dedicated folder (JenaRDCO_ORDO_8010_collection or JenaRDCO_PHENO_8020_collection), one can find a startFuseki.bat file containing the command line capable to launch the server on a Windows OS.
           Otherwise, you can run in a terminal the command line : 
                - java -jar fuseki-server.jar --port=8010 --update --loc=data /ds

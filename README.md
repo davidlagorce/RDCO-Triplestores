@@ -14,5 +14,15 @@ Here are the links in order to download archives files of the two RDCO ontologie
      - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/OrdoBlazeGraph.zip
      - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/HOOMBlazeGraph.zip
      
-     ## How to run and query RDCO-Sparql-Endpoints.
+
+     
+ ## RDCO-Sparql-Endpoints.
+ Here the links in order to download archives files of Sparql Enpoints available and/or needed to querying RDCO ontologies:
+ 
+     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/JenaRDCO_ORDO_8010_collection.zip
+     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/JenaRDCO_PHENO_8020_collection.zip
+     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/OrdoBlazeGraph.zip
+     - http://www.orphadata.org/data/SOLVE-RD/SparqlEndpoints/HOOMBlazeGraph.zip
+     
+
      

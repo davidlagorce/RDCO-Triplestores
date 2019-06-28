@@ -30,7 +30,7 @@ Here are the links in order to download archives files of the two RDCO ontologie
             
             java -server -Xmx4g -Djetty.port=9990 -jar blazegraph.jar  
             
-3. In a browser open: 
+3. To query the sparql endpoints, in a browser open: 
      
      **for JenaRDCO_ORDO_8010_collection**
             

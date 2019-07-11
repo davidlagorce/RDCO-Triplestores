@@ -1,4 +1,5 @@
-## If you are interested in access to our data, note that links are only dowloadable by registered users. To obtain an access, please contact us at data.orphanet@inserm.fr.
+## If you are interested in access to our data, note that links are only downloadable by registered users.
+## To obtain an access, please contact us at data.orphanet@inserm.fr.
 
 
 # RDCO-Triplestores.

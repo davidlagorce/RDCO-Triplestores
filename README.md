@@ -1,3 +1,6 @@
+## If you are interested in access to our data, note that links are only dowloadable by registered users. To obtain an access, please contact us at data.orphanet@inserm.fr.
+
+
 # RDCO-Triplestores.
 Here are the links in order to download archives files of the two RDCO ontologies (e.g RDCO_PHENO and RDCO_ORDO), each others in RDF and OWL formats:
 
